@@ -32,8 +32,6 @@ L'objectif principal est de faciliter la surveillance de la santé des oliviers 
 | FastAPI | Développement de l'API Backend |
 | OpenCV | Traitement et analyse des images et vidéos |
 | HTML / CSS | Création de l'interface web |
-| Jinja2 | Génération dynamique des pages HTML |
-| JSON | Stockage de l'historique des analyses |
 | Uvicorn | Serveur ASGI pour exécuter FastAPI |
 
 ##  Architecture du projet
